@@ -1,0 +1,14 @@
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\bin\Debug\CustonCalc.exe.config
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\bin\Debug\CustonCalc.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\bin\Debug\CustonCalc.pdb
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\obj\Debug\CustonCalc.csprojResolveAssemblyReference.cache
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\obj\Debug\MainWindow.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\obj\Debug\App.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\obj\Debug\CustonCalc_MarkupCompile.cache
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\obj\Debug\CustonCalc_MarkupCompile.lref
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\obj\Debug\MainWindow.baml
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\obj\Debug\CustonCalc.g.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\obj\Debug\CustonCalc.Properties.Resources.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\obj\Debug\CustonCalc.csproj.GenerateResource.Cache
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\obj\Debug\CustonCalc.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\CustonCalc\CustonCalc\obj\Debug\CustonCalc.pdb

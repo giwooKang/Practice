@@ -1,0 +1,14 @@
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\bin\Debug\interfaceTest.exe.config
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\bin\Debug\interfaceTest.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\bin\Debug\interfaceTest.pdb
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\obj\Debug\MainWindow.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\obj\Debug\App.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\obj\Debug\interfaceTest_MarkupCompile.cache
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\obj\Debug\interfaceTest_MarkupCompile.lref
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\obj\Debug\MainWindow.baml
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\obj\Debug\interfaceTest.g.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\obj\Debug\interfaceTest.Properties.Resources.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\obj\Debug\interfaceTest.csproj.GenerateResource.Cache
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\obj\Debug\interfaceTest.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\obj\Debug\interfaceTest.pdb
+c:\users\mimopc\documents\visual studio 2015\Projects\interfaceTest\interfaceTest\obj\Debug\interfaceTest.csprojResolveAssemblyReference.cache

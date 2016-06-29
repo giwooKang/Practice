@@ -1,0 +1,13 @@
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.exe.config
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\MainWindow.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\App.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton_MarkupCompile.cache
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton_MarkupCompile.lref
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\MainWindow.baml
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.g.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.Properties.Resources.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.csproj.GenerateResource.Cache
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb

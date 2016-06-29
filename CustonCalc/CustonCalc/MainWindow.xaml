@@ -1,0 +1,50 @@
+﻿<Window x:Class="CustonCalc.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CustonCalc"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="390" Width="250" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="0,20,0,0">
+            <TextBlock x:Name="tb_main" Height="40" Background="Aqua" Text="0" TextAlignment="Right" FontSize="26.667"/>
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,30,0,0">
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="btn_ce" Width ="50" Height="50" Content="CE"/>
+                    <Button x:Name="btn_c" Width ="50" Height="50" Content="C"/>
+                    <Button x:Name="btn_backspace" Width ="50" Height="50" Content="&lt;"/>
+                    <Button x:Name="btn_div" Width ="50" Height="50" Content="/"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="btn_7" Width="50" Height="50" Content="7"/>
+                    <Button x:Name="btn_8" Width="50" Height="50" Content="8"/>
+                    <Button x:Name="btn_9" Width="50" Height="50" Content="9"/>
+                    <Button x:Name="btn_mul" Width="50" Height="50" Content="*"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="btn_4" Width ="50" Height="50" Content="4"/>
+                    <Button x:Name="btn_5" Width ="50" Height="50" Content="5"/>
+                    <Button x:Name="btn_6" Width ="50" Height="50" Content="6"/>
+                    <Button x:Name="btn_minus" Width ="50" Height="50" Content="-"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="btn_1" Width ="50" Height="50" Content="1"/>
+                    <Button x:Name="btn_2" Width ="50" Height="50" Content="2"/>
+                    <Button x:Name="btn_3" Width ="50" Height="50" Content="3"/>
+                    <Button x:Name="btn_plus" Width ="50" Height="50" Content="+"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="btn_pm" Width ="50" Height="50" Content="+-"/>
+                    <Button x:Name="btn_0" Width ="50" Height="50" Content="0"/>
+                    <Button x:Name="btn_dot" Width ="50" Height="50" Content="."/>
+                    <Button x:Name="btn_equal" Width ="50" Height="50" Content="="/>
+                </StackPanel>
+            
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

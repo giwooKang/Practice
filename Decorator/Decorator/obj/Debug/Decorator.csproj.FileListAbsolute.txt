@@ -1,0 +1,14 @@
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\bin\Debug\Decorator.exe.config
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\bin\Debug\Decorator.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\bin\Debug\Decorator.pdb
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\obj\Debug\MainWindow.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\obj\Debug\App.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\obj\Debug\Decorator_MarkupCompile.cache
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\obj\Debug\Decorator_MarkupCompile.lref
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\obj\Debug\MainWindow.baml
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\obj\Debug\Decorator.g.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\obj\Debug\Decorator.Properties.Resources.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\obj\Debug\Decorator.csproj.GenerateResource.Cache
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\obj\Debug\Decorator.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\Decorator\Decorator\obj\Debug\Decorator.pdb

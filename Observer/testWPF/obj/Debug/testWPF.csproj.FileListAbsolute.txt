@@ -1,0 +1,17 @@
+c:\users\mimopc\documents\visual studio 2015\Projects\testWPF\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\bin\Debug\testWPF.exe
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\bin\Debug\testWPF.pdb
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\obj\Debug\testWPF.csprojResolveAssemblyReference.cache
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\obj\Debug\App.g.cs
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\obj\Debug\testWPF_MarkupCompile.lref
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\obj\Debug\MainWindow.baml
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\obj\Debug\testWPF.csproj.GenerateResource.Cache
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\obj\Debug\testWPF.exe
+C:\Users\mimoPC\documents\visual studio 2015\Projects\testWPF\testWPF\obj\Debug\testWPF.pdb
+C:\Users\mimoPC\Documents\GitHub\Practice\testWPF\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\mimoPC\Documents\GitHub\Practice\testWPF\testWPF\obj\Debug\testWPF.exe
+C:\Users\mimoPC\Documents\GitHub\Practice\testWPF\testWPF\obj\Debug\testWPF.pdb
