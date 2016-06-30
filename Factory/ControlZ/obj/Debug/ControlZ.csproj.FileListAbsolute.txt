@@ -1,0 +1,14 @@
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\bin\Debug\ControlZ.exe.config
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\bin\Debug\ControlZ.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\bin\Debug\ControlZ.pdb
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\obj\Debug\ControlZ.csprojResolveAssemblyReference.cache
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\obj\Debug\MainWindow.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\obj\Debug\App.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\obj\Debug\ControlZ_MarkupCompile.cache
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\obj\Debug\ControlZ_MarkupCompile.lref
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\obj\Debug\MainWindow.baml
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\obj\Debug\ControlZ.g.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\obj\Debug\ControlZ.Properties.Resources.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\obj\Debug\ControlZ.csproj.GenerateResource.Cache
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\obj\Debug\ControlZ.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\ControlZ\ControlZ\obj\Debug\ControlZ.pdb

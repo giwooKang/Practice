@@ -1,0 +1,13 @@
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\bin\Debug\CommandPatton.exe.config
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\bin\Debug\CommandPatton.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\bin\Debug\CommandPatton.pdb
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\obj\Debug\MainWindow.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\obj\Debug\App.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\obj\Debug\CommandPatton_MarkupCompile.cache
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\obj\Debug\CommandPatton_MarkupCompile.lref
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\obj\Debug\MainWindow.baml
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\obj\Debug\CommandPatton.g.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\obj\Debug\CommandPatton.Properties.Resources.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\obj\Debug\CommandPatton.csproj.GenerateResource.Cache
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\obj\Debug\CommandPatton.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\CommandPatton\CommandPatton\obj\Debug\CommandPatton.pdb

@@ -1,0 +1,14 @@
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\bin\Debug\NotePad.exe.config
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\bin\Debug\NotePad.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\bin\Debug\NotePad.pdb
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Debug\MainWindow.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Debug\App.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Debug\NotePad_MarkupCompile.cache
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Debug\NotePad_MarkupCompile.lref
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Debug\MainWindow.baml
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Debug\NotePad.g.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Debug\NotePad.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Debug\NotePad.pdb
+c:\users\mimopc\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache

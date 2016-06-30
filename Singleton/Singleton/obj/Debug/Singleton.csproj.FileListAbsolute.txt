@@ -11,3 +11,6 @@ c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\De
 c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.csproj.GenerateResource.Cache
 c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.exe
 c:\users\mimopc\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb
+C:\Users\mimoPC\Documents\GitHub\Practice\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\mimoPC\Documents\GitHub\Practice\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\mimoPC\Documents\GitHub\Practice\Singleton\Singleton\obj\Debug\Singleton.pdb
