@@ -1,0 +1,13 @@
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\bin\Debug\simpleMVVM.exe.config
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\bin\Debug\simpleMVVM.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\bin\Debug\simpleMVVM.pdb
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\obj\Debug\MainWindow.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\obj\Debug\App.g.cs
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\obj\Debug\simpleMVVM_MarkupCompile.cache
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\obj\Debug\simpleMVVM_MarkupCompile.lref
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\obj\Debug\MainWindow.baml
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\obj\Debug\simpleMVVM.g.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\obj\Debug\simpleMVVM.Properties.Resources.resources
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\obj\Debug\simpleMVVM.csproj.GenerateResource.Cache
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\obj\Debug\simpleMVVM.exe
+c:\users\mimopc\documents\visual studio 2015\Projects\simpleMVVM\simpleMVVM\obj\Debug\simpleMVVM.pdb
